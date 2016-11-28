@@ -21,11 +21,11 @@
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" alignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="Lvz-1q-p5Z">
+                            <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" alignment="center" spacing="1" translatesAutoresizingMaskIntoConstraints="NO" id="Lvz-1q-p5Z">
                                 <rect key="frame" x="5" y="69" width="365" height="50"/>
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7uX-fe-OLV">
-                                        <rect key="frame" x="0.0" y="0.0" width="182.5" height="50"/>
+                                        <rect key="frame" x="0.0" y="0.0" width="182" height="50"/>
                                         <color key="backgroundColor" red="0.78099352904040398" green="0.77429005128806094" blue="0.66089880574049586" alpha="1" colorSpace="calibratedRGB"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="50" id="p8F-4m-tld"/>
@@ -35,7 +35,7 @@
                                         </state>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bHt-8K-hwa">
-                                        <rect key="frame" x="182.5" y="0.0" width="182.5" height="50"/>
+                                        <rect key="frame" x="183" y="0.0" width="182" height="50"/>
                                         <color key="backgroundColor" red="0.78099352904040398" green="0.77429005128806094" blue="0.66089880574049586" alpha="1" colorSpace="calibratedRGB"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="50" id="7Mq-Pd-2s2"/>
