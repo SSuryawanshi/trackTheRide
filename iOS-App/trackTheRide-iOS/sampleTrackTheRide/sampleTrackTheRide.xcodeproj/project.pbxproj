@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		39E69E1A1DF5B1810002A525 /* TripRecorder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39E69E191DF5B1810002A525 /* TripRecorder.swift */; };
 		4ECADCF11DE5D5770001A11D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ECADCF01DE5D5770001A11D /* AppDelegate.swift */; };
 		4ECADCF31DE5D5770001A11D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ECADCF21DE5D5770001A11D /* ViewController.swift */; };
 		4ECADCF61DE5D5770001A11D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4ECADCF41DE5D5770001A11D /* Main.storyboard */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		39E69E191DF5B1810002A525 /* TripRecorder.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TripRecorder.swift; sourceTree = "<group>"; };
 		4ECADCED1DE5D5770001A11D /* sampleTrackTheRide.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = sampleTrackTheRide.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4ECADCF01DE5D5770001A11D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4ECADCF21DE5D5770001A11D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				4ECADCFC1DE5D5770001A11D /* LaunchScreen.storyboard */,
 				4ECADCFF1DE5D5770001A11D /* Info.plist */,
 				4ECADCF71DE5D5770001A11D /* sampleTrackTheRide.xcdatamodeld */,
+				39E69E191DF5B1810002A525 /* TripRecorder.swift */,
 			);
 			path = sampleTrackTheRide;
 			sourceTree = "<group>";
@@ -264,6 +267,7 @@
 			files = (
 				4ECADCF31DE5D5770001A11D /* ViewController.swift in Sources */,
 				4ECADCF11DE5D5770001A11D /* AppDelegate.swift in Sources */,
+				39E69E1A1DF5B1810002A525 /* TripRecorder.swift in Sources */,
 				4ECADCF91DE5D5770001A11D /* sampleTrackTheRide.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
