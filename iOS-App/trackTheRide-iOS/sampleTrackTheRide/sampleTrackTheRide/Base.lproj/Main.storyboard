@@ -33,6 +33,9 @@
                                         <state key="normal" title="Start">
                                             <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         </state>
+                                        <connections>
+                                            <action selector="startTripPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="QMz-ls-bO1"/>
+                                        </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bHt-8K-hwa">
                                         <rect key="frame" x="183" y="0.0" width="182" height="50"/>
@@ -43,6 +46,9 @@
                                         <state key="normal" title="Stop">
                                             <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         </state>
+                                        <connections>
+                                            <action selector="stopTripPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="E9Q-kU-UMj"/>
+                                        </connections>
                                     </button>
                                 </subviews>
                                 <constraints>
